@@ -1,2 +1,2 @@
 # Pseudocodigo
-Códigos escritos durante a minha aprendizagem em lógica de programação
+Códigos escritos em português estruturado durante a minha aprendizagem em lógica de programação
