@@ -1,0 +1,34 @@
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■(254)
+.sintaxe do comando Enquanto
+
+Enquanto expressão faca
+	bloco
+FimEnquanto
+
+-> No início da estrutura ,a condição Enquanto só é executada se ela for verdadeira logo no início caso contrário em que a expressão resultar falso os comandos nem chegam a serem executados.
+->Enquanto a expressão for verdadeira,ela executa o bloco.
+->toda vez que o programa chega ao fim do bloco
+a expressão é verificada novamente,se ela for verdadeira-continua e se for falsa o bloco não é repetido novamente,ou seja o loop só é desfeito quando a expressão é falsa
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+(254)
+Construção da estrutura:
+->Sempre quando iniciar uma estrutura,feche ela.
+Enquanto
+FimEnquanto
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+(254)
+O contador na estrutura Enquanto será responsável 
+para terminar o looping,então sempre ponha a contagem do contador no final do bloco da estrutura. 
+Exemplo:
+-------------------------------------------------
+Enquanto (cont <= 5) faca
+             
+           Escreva("Insire o ",cont,"º número: ")
+           Leia(n)
+           soma <- soma + n
+           cont <- cont + 1
+FimEnquanto
+EscrevaL("A soma de todos os valores foi ",soma)
+-------------------------------------------------
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+(254)

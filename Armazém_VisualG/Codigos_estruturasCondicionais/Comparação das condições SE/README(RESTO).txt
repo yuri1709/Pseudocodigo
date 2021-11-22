@@ -1,0 +1,1 @@
+Se fizermos o aninhamento da exbição de resultados da quantidade de notas,somente a nota mais próxima do valor de saque será printado no console.Isto ocorre pelo fato do valor ser verdadeiro na condição <> 0,inibindo asssim todas as condições falsas.

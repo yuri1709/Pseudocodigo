@@ -1,0 +1,28 @@
+Condição SE aninhada
+Se (situação 1) entao
+   Bloco A
+senao
+    Se (situação 2) entao
+       Bloco B
+    senao	 	
+	Bloco C
+    fimSe
+ fimSe	
+
+DICA:
+1- ao fazer a estrutura SE aninhada
+ponha já feche a estrutura com o fimse pra depois por o senão
+ex:
+se(condição 1) entao
+  <ação 1>
+senao
+     se (condição 2) entao //já ponha o fimse
+   	<ação 2>
+     senao
+	  se (condição 3) entao
+	      <ação 3>
+	  fimse   
+     fimse 	
+fimse
+
+

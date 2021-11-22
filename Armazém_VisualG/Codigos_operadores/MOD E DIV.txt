@@ -1,0 +1,18 @@
+MOD E DIV
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+DIV = Quociente da divisão
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+MOD = Resto da divsão 
+
+Se o dividendo for menor que o divisor o valor do
+resto será o próprio dividendo
+
+Ex:
+resto <- 7 mod 99
+Output: 7
+
+Ex 2:
+resto <- 98 mod 99
+Outoput: 98
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
